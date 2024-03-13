@@ -8,3 +8,6 @@ solc = "0.8.23"
 
 [fuzz]
 runs = 500
+
+[invariant]
+runs = 1000
